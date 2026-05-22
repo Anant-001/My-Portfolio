@@ -1,10 +1,11 @@
-
 import NavBar from "./components/NavBar.jsx";
+import Hero from "./sections/Hero.jsx";
 
 const App = () => {
   return (
       <>
-        <NavBar />
+          <NavBar />
+          <Hero />
       </>
   )
 }
