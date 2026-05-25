@@ -44,13 +44,13 @@ const ShowcaseSection = () => {
                     {/*left*/}
                     <div className="first-project-wrapper" ref={Project1Ref}>
                         <div className="image-wrapper">
-                            <img src="/Showcase/Studying%20Made%20Easy%20with%20Online%20Notes.png" alt="ryde"/>
+                            <img src="/Showcase/Thumbnail.png" alt="ryde"/>
                         </div>
                         <div className="text-content">
-                            <h2>Study With Online With Notes Will be Easy For You</h2>
+                            <h2>E-Store for Latest Fashion to All </h2>
                             <p className="text-white-50 md:text-xl">
-                                A Web Platform for Students to Study Online with Notes.
-                                Now Students can study with notes in a better way.
+                                An E-Store Platform for unlimited fashion to women,men,kids.
+                                All kind of latest fashion in this e-store.
                             </p>
                         </div>
                     </div>
@@ -58,16 +58,16 @@ const ShowcaseSection = () => {
                     <div className="project-list-wrapper overflow-hidden">
                         <div className="project" ref={Project2Ref}>
                             <div className="image-wrapper bg-[#ffefdb]">
-                                <img src="/Showcase/Gaming%20Fun%20with%20Friends!.png" alt="Library Management Platform"/>
+                                <img src="/Showcase/Thumbnail-urban%20app.png" alt="Library Management Platform"/>
                             </div>
-                            <h2>Gaming Center To Play Online Games With you Friend</h2>
+                            <h2>Food Delivery app called Urban food. Get your food on time</h2>
                         </div>
 
                         <div className="project" ref={Project3Ref}>
                             <div className="image-wrapper bg-[#ffe7eb]">
-                                <img src="/Showcase/Cover.png" alt="YC Directory"/>
+                                <img src="/Showcase/Thumbnail-Bookingo.png" alt="YC Directory"/>
                             </div>
-                            <h2>An Entertaining Show And Movies You can Watch With family And Friend</h2>
+                            <h2>Book Your Trip with us Bookingo application simple ride booking </h2>
                         </div>
                     </div>
                 </div>
