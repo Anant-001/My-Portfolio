@@ -120,7 +120,7 @@ const techStackIcons = [
         rotation: [0, 0, 0],
     },
     {
-        name: "Figma Developer",
+        name: "Figma Designer",
         modelPath: "/models/figma.fbx.glb",
         scale: 2.5,
         rotation: [0, 0, 0],
@@ -132,7 +132,7 @@ const techStackIcons = [
         rotation: [0, -Math.PI / 2, 0],
     },
     {
-        name: "Interactive Developer",
+        name: "Interactive Designer",
         modelPath: "/models/three.js-transformed.glb",
         scale: 0.05,
         rotation: [0, 0, 0],
@@ -161,13 +161,13 @@ const expCards = [
     },
     {
         review:
-            "Anant contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+            "Anant contributions to web development have been outstanding. He approaches challenges with a problem-solving mindset.",
         imgPath: "/images/exp2.png",
         logoPath: "/images/logo2.png",
-        title: "Full Stack Developer",
+        title: "Web Developer",
         date: "June 2025 - August 2025",
         responsibilities: [
-            "Led the development of Docker's web applications, focusing on scalability.",
+            "Led the development with react web development, focusing on scalability.",
             "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
             "Contributed to open-source projects that were used with the Docker ecosystem.",
         ],
@@ -175,7 +175,7 @@ const expCards = [
     {
         review:
             "Anant work with Ui/Ux to design web and  brought a high level of quality and efficiency. He delivered solutions that enhanced our web experience & meet our product goals.",
-        imgPath: "/Showcase/Figma-logo.png",
+        imgPath: "/Showcase/Figma logo.png",
         logoPath: "/Showcase/Figma.png",
         title: "User Interface / User Experience Designer",
         date: "March 2025 - May 2025",
@@ -250,22 +250,22 @@ const testimonials = [
 const socialImgs = [
     {
         name: "insta",
-        url: "https://www.instagram.com/",
+        url: "https://www.instagram.com/anant_devliyal",
         imgPath: "/images/insta.png",
     },
     {
-        name: "fb",
-        url: "https://www.facebook.com/",
-        imgPath: "/images/fb.png",
+        name: "behance",
+        url: "https://www.behance.net/anantdevliyal1",
+        imgPath: "/images/behance.png",
     },
     {
-        name: "x",
-        url: "https://www.x.com/",
-        imgPath: "/images/x.png",
+        name: "Github",
+        url: "https://github.com/Anant-001",
+        imgPath: "/images/github.png",
     },
     {
         name: "linkedin",
-        url: "https://www.linkedin.com/",
+        url: "https://www.linkedin.com/in/anant-devliyal",
         imgPath: "/images/linkedin.png",
     },
 ];
