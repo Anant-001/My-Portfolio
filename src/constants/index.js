@@ -11,9 +11,13 @@ const navLinks = [
         name: "Skills",
         link: "#skills",
     },
-    {
+    /* {
         name: "Testimonials",
         link: "#testimonials",
+    },*/
+    {
+        name: "Achievements",
+        link: "#achievements"
     },
 ];
 
@@ -265,8 +269,31 @@ const socialImgs = [
     },
     {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/anant-devliyal",
+        url: "https://www.linkedin.com/in/anant-devliyal-779048229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         imgPath: "/images/linkedin.png",
+    },
+];
+const certificates = [
+    {
+        id: 1,
+        title: "UI/UX Design Fundamentals",
+        platform: "Internship",
+        image: "/Showcase/certificates/9Yard Intern.png",
+        link: "#",
+    },
+    {
+        id: 2,
+        title: "Web Development",
+        platform: "Internship",
+        image: "/Showcase/certificates/Tech-one Intern.png",
+        link: "#",
+    },
+    {
+        id: 3,
+        title: "Web design, Ui/Ux",
+        platform: "Udemy",
+        image: "/Showcase/certificates/udemy.png",
+        link: "#",
     },
 ];
 
@@ -282,4 +309,5 @@ export {
     techStackIcons,
     techStackImgs,
     navLinks,
+    certificates,
 };
