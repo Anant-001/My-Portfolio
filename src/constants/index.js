@@ -130,10 +130,10 @@ const techStackIcons = [
         rotation: [0, 0, 0],
     },
     {
-        name: "Front end Developer",
-        modelPath: "/models/node-transformed.glb",
-        scale: 5,
-        rotation: [0, -Math.PI / 2, 0],
+        name: "Canva Designer",
+        modelPath: "/models/canva.glb",
+        scale: 1.8,
+        rotation: [0, 0 , 0],
     },
     {
         name: "Interactive Designer",
